@@ -108,8 +108,8 @@ src/
 1. **Clonar o repositório**
 
 ```bash
-git clone https://github.com/seu-usuario/podcast-manager.git
-cd podcast-manager
+git clone https://github.com/Wandsonslopes/podcast-api-nodejs.git
+cd podcast-api-nodejs
 ```
 
 2. **Instalar dependências**
